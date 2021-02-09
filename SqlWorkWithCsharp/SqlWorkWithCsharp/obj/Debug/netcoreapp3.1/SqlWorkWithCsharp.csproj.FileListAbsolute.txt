@@ -1,0 +1,13 @@
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.exe
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.deps.json
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.runtimeconfig.json
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.runtimeconfig.dev.json
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.dll
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\bin\Debug\netcoreapp3.1\SqlWorkWithCsharp.pdb
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.csprojAssemblyReference.cache
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.AssemblyInfoInputs.cache
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.AssemblyInfo.cs
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.csproj.CoreCompileInputs.cache
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.dll
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.pdb
+C:\Users\sona\Documents\GitHub\SqlWorkWithCsharp\SqlWorkWithCsharp\SqlWorkWithCsharp\obj\Debug\netcoreapp3.1\SqlWorkWithCsharp.genruntimeconfig.cache
